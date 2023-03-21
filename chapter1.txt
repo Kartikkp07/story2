@@ -1,3 +1,4 @@
-this is a story
-it has been edited in the experimental branch
-if u find it in master it has been merged
+this is story of programmer's community .
+we are lazy to type and frustated with bug .
+we have coffee more important than breadth .
+
